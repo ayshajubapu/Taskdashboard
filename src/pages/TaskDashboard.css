@@ -1,0 +1,9 @@
+/* TaskDashboard.css */
+.MuiPaper-root {
+    transition: transform 0.2s ease;
+  }
+  
+  .MuiPaper-root:hover {
+    transform: scale(1.02);
+  }
+  
